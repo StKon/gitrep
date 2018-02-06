@@ -12,6 +12,7 @@ namespace CSharp_Proj
         {
             Console.WriteLine("Hallo World!");
             Console.WriteLine("What's up?");
+            Console.WriteLine("Hello");
         }
     }
 }
